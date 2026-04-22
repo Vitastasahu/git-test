@@ -1,2 +1,5 @@
 this is first file
-added another file to commit
+added another text to commit
+added another text to commit
+added another text to commit
+
